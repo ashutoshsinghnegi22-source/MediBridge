@@ -135,8 +135,8 @@ This project is developed for academic and learning purposes.
 ## Author
 
 This Project is Published By The Following Members :-
-- Mayank Kishan Mathur 
 - Ashutosh Singh Negi
+- Mayank Kishan Mathur 
 - Nikhil Shardul Haq Jha
 - Ashutosh Ranjan
 - Milind Parashar
